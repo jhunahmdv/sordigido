@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/digidocpp"
+            ],
+            "defines": []
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,12 @@
+[package]
+name = "sordigido"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+autocxx = "0.30"
+cxx = "1.0"
+
+[build-dependencies]
+autocxx-build = "0.30"
+miette = { version = "5", features = ["fancy"] }
